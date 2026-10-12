@@ -8,7 +8,7 @@ Trưởng nhóm/người nộp: Mai Hoàng Anh - 2A202602857
 
 Ngày lab/deadline áp dụng: 12/10/2026 — Asia/Ho_Chi_Minh (UTC+07:00)
 
-Commit dùng để chấm: Bản commit cuối cùng trên branch main
+Commit dùng để chấm: d198449e8885b11951d8b590fe1bd408e66af834 (bản commit hoàn thành toàn bộ CP0, Phase A, B, C, Blueprint trên branch main)
 
 Mỗi nhóm nộp một repo. Điền đủ thành viên và một mục INDIVIDUAL cho từng người.
 Thêm/xóa rows để khớp nhóm thật; nhóm làm độc lập gồm 1 thành viên.
